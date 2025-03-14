@@ -1,0 +1,33 @@
+_repo: Kohtalon-leikkia_75387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Röösgrén, Liina
+    aliases:
+    - Roosgren, Liina
+    - Kataja, Aliina Fredrika
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '57976'
+    url: http://www.gutenberg.org/2009/agents/57976
+    wikipedia: https://fi.wikipedia.org/wiki/Liina_R%C3%B6%C3%B6sgr%C3%A9n
+description: ''
+gutenberg_issued: '2025-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75387'
+language: fi
+pgterms:marc905: 20250207040334rsgrn
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bPaperikauppa Viertola, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Kohtalon leikkiä
+url: http://www.gutenberg.org/ebooks/75387
