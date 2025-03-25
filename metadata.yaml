@@ -1,5 +1,8 @@
 _repo: Kohtalon-leikkia_75387
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Röösgrén, Liina
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57976
     wikipedia: https://fi.wikipedia.org/wiki/Liina_R%C3%B6%C3%B6sgr%C3%A9n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75387#Kohtalon-leikkia
 gutenberg_issued: '2025-02-16'
 gutenberg_type: Text
 identifiers:
